@@ -22,7 +22,7 @@
     "noImplicitAny": false,
     "skipLibCheck": true,
     "paths": {
-      "/@/*": ["src/*"],
+      "/@/*": ["src/modules/layoutmodule-vben/*"],
       "/#/*": ["types/*"]
     }
   },

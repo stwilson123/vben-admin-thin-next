@@ -42,7 +42,7 @@ export default ({ command, mode }: ConfigEnv): UserConfig => {
         // /@/xxxx => src/xxxx
         {
           find: /\/@\//,
-          replacement: pathResolve('src') + '/',
+          replacement: pathResolve('src/modules/layoutmodule-vben') + '/',
         },
         // /#/xxxx => types/xxxx
         {

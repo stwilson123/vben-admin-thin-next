@@ -32,6 +32,7 @@
     "postinstall": "npm run install:husky"
   },
   "dependencies": {
+    "@blocks-framework/core": "0.0.10",
     "@iconify/iconify": "^2.0.0-rc.6",
     "@vueuse/core": "^4.9.0",
     "@zxcvbn-ts/core": "^0.3.0",
